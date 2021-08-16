@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/rmtech/static/css/main.fc52cde5.chunk.css",
+    "main.js": "/rmtech/static/js/main.2b19d5b5.chunk.js",
+    "main.js.map": "/rmtech/static/js/main.2b19d5b5.chunk.js.map",
+    "runtime-main.js": "/rmtech/static/js/runtime-main.775e83d1.js",
+    "runtime-main.js.map": "/rmtech/static/js/runtime-main.775e83d1.js.map",
+    "static/js/2.7071566e.chunk.js": "/rmtech/static/js/2.7071566e.chunk.js",
+    "static/js/2.7071566e.chunk.js.map": "/rmtech/static/js/2.7071566e.chunk.js.map",
+    "static/js/3.ecf64fbb.chunk.js": "/rmtech/static/js/3.ecf64fbb.chunk.js",
+    "static/js/3.ecf64fbb.chunk.js.map": "/rmtech/static/js/3.ecf64fbb.chunk.js.map",
+    "index.html": "/rmtech/index.html",
+    "static/css/main.fc52cde5.chunk.css.map": "/rmtech/static/css/main.fc52cde5.chunk.css.map",
+    "static/js/2.7071566e.chunk.js.LICENSE.txt": "/rmtech/static/js/2.7071566e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/rmtech/static/media/micro.0eb639df.jpg",
+    "static/media/app1.e37e0b90.jpeg": "/rmtech/static/media/app1.e37e0b90.jpeg",
+    "static/media/app2.d3896ad9.jpeg": "/rmtech/static/media/app2.d3896ad9.jpeg",
+    "static/media/fellow.abcd03f0.jpg": "/rmtech/static/media/fellow.abcd03f0.jpg",
+    "static/media/logo.6ce24c58.svg": "/rmtech/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.775e83d1.js",
+    "static/js/2.7071566e.chunk.js",
+    "static/css/main.fc52cde5.chunk.css",
+    "static/js/main.2b19d5b5.chunk.js"
+  ]
+}
